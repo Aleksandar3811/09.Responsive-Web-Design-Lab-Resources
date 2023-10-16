@@ -1,0 +1,15 @@
+@media (max-width:50rem) {
+   body{
+    border: 2px solid blue;
+   }
+}
+@media (min-width:35rem) {
+    body{
+    background-color: yellow;
+    }
+ }
+ @media (width:360px) {
+    body{
+     color: red;
+    }
+ }
